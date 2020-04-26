@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Which of the following is not a C++ Header file ?",
+        "2": "How many object can be created of a class in c++ ?",
+        "3": "Exceptions are caught at ?",
+        "4": "C++ is superset of which language ?",
+        "5": "What is size of void in C++ ?"
+    },
+    {
+        "1": {
+            "a": "conio.h",
+            "b": "cstdlib.h",
+            "c": "stdio.h",
+            "d": "math.h"
+        },
+        "2": {
+            "a": "1",
+            "b": "5",
+            "c": "256",
+            "d": "There is no limit"
+        },
+        "3": {
+            "a": "Compilation Time",
+            "b": "Run Time",
+            "c": "Linking Time",
+            "d": "No"
+        },
+        "4": {
+            "a": "BASIC",
+            "b": "VB",
+            "c": "PASCAL",
+            "d": "C"
+        },
+        "5": {
+            "a": "2 bytes",
+            "b": "4 bytes",
+            "c": "Undefined",
+            "d": "0"
+        }
+    },
+    {
+        "1": "stdio.h",
+        "2": "There is no limit",
+        "3": "Run Time",
+        "4": "C",
+        "5": "0"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "1": "what is the sizeof() in C ?",
+        "2": "Which of the following is executed by Preprocess ?",
+        "3": "What  is the following  is invalid header file in C ?",
+        "4": "Can we declare function inside structure of C programming ?",
+        "5": "How many type of loops are there in C ?"
+    },
+    {
+        "1": {
+            "a": "Operator",
+            "b": "Function",
+            "c": "Macro",
+            "d": "None of these"
+        },
+        "2": {
+            "a": "#include<stdio.h>",
+            "b": "return 0",
+            "c": "void main(int argc, char** argv)",
+            "d": "None of above"
+        },
+        "3": {
+            "a": "math.h",
+            "b": "mathio.h",
+            "c": "string.h",
+            "d": "ctype.h"
+        },
+        "4": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Depends on Compiler",
+            "d": "Yes but run time error"
+        },
+        "5": {
+            "a": "2",
+            "b": "3",
+            "c": "1",
+            "d": "4"
+        }
+    },
+    {
+        "1": "Operator",
+        "2": "#include<stdio.h>",
+        "3": "mathio.h",
+        "4": "No",
+        "5": "3"
+    }
+]

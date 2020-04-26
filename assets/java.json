@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Which of the following option leads to the portability and security of java ?",
+        "2": "Which of the following is not a Java features ? ",
+        "3": "Which of the following is used to find and fix bugs in the Java ?",
+        "4": "Evaluate the following Java expression, if x=3,y=5 and z=10: \n\t ++z+y-y+z+x++",
+        "5": "An interface with no fields or methods is known as a __________"
+    },
+    {
+        "1": {
+            "a": "Bytecode is executed by the JVM",
+            "b": "The applet makes the java code secure and portable",
+            "c": "Use the exception handling",
+            "d": "Dynamic binding between objects"
+        },
+        "2": {
+            "a": "Dynamic",
+            "b": "Architecture Neutral",
+            "c": "Use of pointers",
+            "d": "Object-oriented"
+        },
+        "3": {
+            "a": "JVM",
+            "b": "JRE",
+            "c": "JDK",
+            "d": "JDB"
+        },
+        "4": {
+            "a": "24",
+            "b": "23",
+            "c": "20",
+            "d": "25"
+        },
+        "5": {
+            "a": "Runnable Interface",
+            "b": "Marker Interface",
+            "c": "Abstract Interface",
+            "d": "CharSequence Interface"
+        }
+    },
+    {
+        "1": "Bytecode is executed by the JVM",
+        "2": "Use of pointers",
+        "3": "JDB",
+        "4": "24",
+        "5": "Marker Interface"
+    }
+]
